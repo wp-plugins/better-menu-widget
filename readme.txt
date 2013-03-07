@@ -56,7 +56,7 @@ Based on the core WordPress Custom Menu widget.
 
 1. Default widget settings
 2. Example widget settings
-3. Front-end view of Better Custom Menu widget
+3. Front-end view of Better  Menu Widget
 
 == Changelog ==
 
