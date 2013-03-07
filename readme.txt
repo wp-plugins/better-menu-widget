@@ -1,5 +1,5 @@
 === Better Menu Widget ===
-Contributors: traceyholinka
+Contributors: TraceyHolinka
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7TQVKUXW68UHQ
 Tags: widget, menus, navigation
 Requires at least: 3.0
