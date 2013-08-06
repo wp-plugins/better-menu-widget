@@ -1,12 +1,12 @@
 <?php
 /*
  * Plugin Name:  Better Menu Widget
- * Plugin URI:   http://www.chaostoclarity.com/wordpress-plugins/better-menu-widget/
+ * Plugin URI:  http://www.chaostoclarity.com/wordpress-plugins/better-menu-widget/
  * Description:  Better Menu Widget makes it easy to customize your menu widgets by adding css styles and a heading link.
- * Version:      1.0
+ * Version:      1.1
  * Author:       Tracey Holinka
  * Author URI:   http://TraceyHolinka.com
- * Author Email: tracey@chaostoclarity.com
+ * Author Email: tracey.holinka@chaostoclarity.com
  * License:      GPLv2
  * 
  *  Copyright 2010-2013 Tracey Holinka (tracey@chaostoclarity.com)
@@ -31,9 +31,9 @@ if (!class_exists("Better_Menu_Widget")) {
 	class Better_Menu_Widget extends WP_Widget {
 
 	function Better_Menu_Widget() {
-		$widget_ops = array( 'classname' => 'menu-widget', 'description' => __('Add one of your custom menus as a widget.') );		/* Widget settings. */
-		$control_ops = array( 'width' => 300, 'height' => 350, 'id_base' => 'menu-widget' );		/* Widget control settings. */
-		$this->WP_Widget( 'menu-widget', __('Better Menu'), $widget_ops, $control_ops );		/* Create the widget. */
+		$widget_ops = array( 'classname' => 'better-menu-widget', 'description' => __('Add one of your custom menus as a widget.') );		/* Widget settings. */
+		$control_ops = array( 'width' => 300, 'height' => 350, 'id_base' => 'better-menu-widget' );		/* Widget control settings. */
+		$this->WP_Widget( 'better-menu-widget', __('Better Menu'), $widget_ops, $control_ops );		/* Create the widget. */
 	}
 	
 		function widget($args, $instance) {
