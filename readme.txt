@@ -1,14 +1,15 @@
 === Better Menu Widget ===
-Contributors: TraceyHolinka
+Contributors: traceyholinka
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7TQVKUXW68UHQ
 Tags: widget, menus, navigation
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.0
+Tested up to: 3.6
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Better Menu Widget makes it easy to customize your menu widgets by adding css styles and a heading link.
+
 
 == Description ==
 
@@ -50,16 +51,24 @@ Based on the core WordPress Custom Menu widget.
 
 == Frequently Asked Questions ==
 
-= How do I style a Better Menu Widget? =You can style a Better Menu Widget by adding the default menu class `sub-menu` to your theme's style sheet. If you've changed the menu class in the widget options, then you would use the new class name you created.
+= How do I style a Better Menu Widget? =
+
+You can style a Better Menu Widget by adding the default menu class `sub-menu` to your theme's style sheet. If you've changed the menu class in the widget options, then you would use the new class name you created.
 
 == Screenshots ==
 
 1. Default widget settings
 2. Example widget settings
-3. Front-end view of Better Menu Widget
+3. Front-end view of Better Custom Menu widget
 
 == Changelog ==
 
-= 1.0=
+= 1.1 =
+
+**Important Change! Read before you update.**
+
+The widget class was changed from "menu-widget" to "better-menu-widget" to avoid class name conflicts. This will cause any widgets you have to disappear so you'll need to add them again. You may also need to update your style sheets.
+
+= 1.0 =
 
 Initial public release.
