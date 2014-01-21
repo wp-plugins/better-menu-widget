@@ -9,7 +9,7 @@
  * Author Email: tracey@chaostoclarity.com
  * License:      GPLv2
  * 
- *  Copyright 2010-2013 Tracey Holinka (tracey@chaostoclarity.com)
+ *  Copyright 2010-2014 Tracey Holinka (tracey@chaostoclarity.com)
  * 
  *  This program is free software; you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License, version 2, as 
