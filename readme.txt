@@ -66,6 +66,7 @@ You can style a Better Menu Widget by adding the default menu class `sub-menu` t
 = 1.2 =
 
 Internationalize plugin.
+
 Add developer credits.
 
 = 1.1 =
