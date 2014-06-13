@@ -2,9 +2,9 @@
 Contributors: traceyholinka
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7TQVKUXW68UHQ
 Tags: widget, menus, navigation
-Requires at least: 3.0
-Tested up to: 3.8.1
-Stable tag: 1.2
+Requires at least: 3.5
+Tested up to: 3.9.1
+Stable tag: 1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -63,11 +63,15 @@ You can style a Better Menu Widget by adding the default menu class `sub-menu` t
 
 == Changelog ==
 
+= 1.3 =
+
+Security enhancements.
+
 = 1.2 =
 
 Internationalize plugin.
 
-Add developer credits.
+Added developer credits.
 
 = 1.1 =
 
