@@ -24,8 +24,8 @@ Based on the core WordPress Custom Menu widget.
 
 = Plugin's Official Site =
 
-* [Overview](http://www.chaostoclarity.com/wordpress-plugins/better-menu-widget/)
-* [Changelog](http://www.chaostoclarity.com/wordpress-plugins/better-menu-widget/changelog/)
+* [Overview](http://traceyholinka.com/wordpress-plugins/better-menu-widget/)
+* [Changelog](http://traceyholinka.com/wordpress-plugins/better-menu-widget/changelog/)
 
 == Installation ==
 
