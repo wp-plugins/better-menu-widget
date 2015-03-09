@@ -3,7 +3,7 @@ Contributors: traceyholinka
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7TQVKUXW68UHQ
 Tags: widget, menus, navigation
 Requires at least: 3.5
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: 1.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
