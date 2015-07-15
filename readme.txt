@@ -2,9 +2,9 @@
 Contributors: traceyholinka
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7TQVKUXW68UHQ
 Tags: widget, menus, navigation
-Requires at least: 3.5
-Tested up to: 4.1.1
-Stable tag: 1.4
+Requires at least: 3.8
+Tested up to: 4.2.2
+Stable tag: 1.4.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,6 +62,14 @@ You can style a Better Menu Widget by adding the default menu class `sub-menu` t
 3. Front-end view of Better Custom Menu widget
 
 == Changelog ==
+
+= 1.4.1 =
+
+Change constructor style to PHP5.
+
+Improve code comments.
+
+Tested against WordPress 4.2.2.
 
 = 1.4 =
 
